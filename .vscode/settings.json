@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "eslint.options": {
+    "configFile": ".eslintrc.js"
+  },
+}
